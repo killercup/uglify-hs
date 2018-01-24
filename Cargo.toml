@@ -1,0 +1,18 @@
+[package]
+name = "uglify-hs"
+version = "0.1.0"
+authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
+description = "A Haskell minifier to produce smaller source code files"
+documentation = "https://docs.rs/uglify-hs"
+homepage = "https://github.com/mgattozzi/uglify-hs"
+repository = "https://github.com/mgattozzi/uglify-hs"
+readme = "README.md"
+keywords = ["Haskell", "Minify", "hs" ]
+categories = [
+  "text-processing",
+  "command-line-utilities",
+  "value-formatting"
+]
+license = "MIT/Apache-2.0"
+
+[dependencies]

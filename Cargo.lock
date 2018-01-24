@@ -1,0 +1,4 @@
+[[package]]
+name = "uglify-hs"
+version = "0.1.0"
+
